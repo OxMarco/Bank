@@ -1,0 +1,12 @@
+{
+  "remappings": [
+    "ds-test/=lib/ds-test/src/",
+    "forge-std/=lib/forge-std/src/",
+    "@openzeppelin/=lib/openzeppelin-contracts/",
+    "@chainlink/=lib/chainlink/"
+  ],
+  "optimizer": {
+    "enabled": true,
+    "runs": 200
+  }
+}
